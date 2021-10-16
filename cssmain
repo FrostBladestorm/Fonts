@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Celticeels';
+    src: url('https://cdn.rawgit.com/FrostBladestorm/Fonts/blob/29a1c7e1b680f3ab6d1f692d265e3de34bd75adc/Celticeels-K1pp.ttf');
+    font-weight: 100;
+    font-style: normal;
+} 
